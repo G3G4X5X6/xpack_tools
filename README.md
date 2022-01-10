@@ -1,8 +1,6 @@
-# xpack_tools
+# UltimateShell内置功能增强工具包
 
-## UltimateShell内置功能增强工具包
-
-### 每个工具有 `README.md` , **包含内容：**
+### 工具目录下的说明格式文件 `README.md` 
 1. 官方地址
 2. 下载地址
 3. 文档地址
